@@ -1,3 +1,0 @@
-vpd
-mirror
-conmgr status
